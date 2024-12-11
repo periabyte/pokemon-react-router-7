@@ -1,8 +1,6 @@
-# Welcome to React Router!
+# React Router 7 + TanStack Query
 
-A modern, production-ready template for building full-stack React applications using React Router.
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+A Technical Assessment Activity, Utilized React Router 7 and TanStack Query to integrate with [PokeApi](https://pokeapi.co/)
 
 ## Features
 
@@ -13,6 +11,8 @@ A modern, production-ready template for building full-stack React applications u
 - 🔒 TypeScript by default
 - 🎉 TailwindCSS for styling
 - 📖 [React Router docs](https://reactrouter.com/)
+- TanStack React Query
+- ShadCN for a few components
 
 ## Getting Started
 
